@@ -1,7 +1,7 @@
 {
   "params": {
-    "custom_avatar_url": "",
-    "description": "",
+    "custom_avatar_url": "https://blobs.tetov.se/logo.svg",
+    "description": "Anton Tetov is figuring it out",
     "paginate": 10
   }
 }
